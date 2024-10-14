@@ -2,8 +2,8 @@ Bienvenue dans le projet OpenSource créé ce 03/10/2024 afin de célébrer le m
 Pour contribuer, c'est tout simple ! Apportez vos compétences en :
 
 - Proposition de maquette (Design), autant que vous pouvez;
-- Coder le frontend avec un autre framework, car de base, nous sommes en train de le faire avec Angular;
-- Coder le backend avec un autre framework, car de base, nous sommes en train de le faire avec SpringBoot;
+- Coder le frontend avec Next.js/React (de base, avec Angular);
+- Coder le backend avec Django (de base, avec SpringBoot);
 - Proposer des versions de cahier des charges;
 - Proposer des diagrammes de modélisation;
 - Tester les applications une fois déployées et laisser des commentaires;
